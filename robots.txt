@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/southern-edge-paint-co-marco-island/sitemap.xml
+Sitemap: https://local-business-guides.github.io/southern-edge-paint-co-marco-island/news-sitemap.xml

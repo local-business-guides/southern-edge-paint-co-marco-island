@@ -23,6 +23,9 @@
 - [Hiring affordable painters Marco Island homeowners need](https://local-business-guides.github.io/southern-edge-paint-co-marco-island/affordable-painters-marco-island/): Compare affordable painters Marco Island homeowners can hire with clearer estimates and practical planning for your Marco Island home.
 - [Painter Marco Island home preparation and hiring guide](https://local-business-guides.github.io/southern-edge-paint-co-marco-island/painter-marco-island/): Painter Marco Island hiring guide for easier project preparation, clear questions, and informed repainting decisions for your Marco Island home.
 
+## Newsroom
+- [Marco Island Homeowners Can Read New Painting Guide from Southern Edge Paint Co.](https://local-business-guides.github.io/southern-edge-paint-co-marco-island/news/2026-10-24-marco-island-homeowners-can-read-new-painting-guid/): Southern Edge Paint Co. has released a guide to Marco Island painters, with companion video, podcast and audio versions. (2026-10-24)
+
 ## Pages
 - [Marco Island Painters in Florida](https://local-business-guides.github.io/southern-edge-paint-co-marco-island/): Give your Marco Island home a fresh finish with careful preparation, clear communication, and interior or exterior painting. Call +1239-529-7315.
 - [About and Contact Southern Edge Paint Co.](https://local-business-guides.github.io/southern-edge-paint-co-marco-island/about/): About Southern Edge Paint Co., Marco Island.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/southern-edge-paint-co-marco-island/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/southern-edge-paint-co-marco-island/news/rss.xml)
 - [Main resource site](https://southern-edge-coastal.localwebsites.chatgpt.site)
